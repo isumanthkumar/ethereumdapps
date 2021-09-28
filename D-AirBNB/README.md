@@ -26,6 +26,4 @@ npm run start
 
 5. Navigate to http://localhost:3000/ to see the app running.
 
-## Full Solution
 
-[Complete Decentralized Airbnb](https://github.com/maticnetwork/ethindia-workshop/tree/complete-dapp) | or `git checkout complete-dapp`
